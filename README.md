@@ -1,7 +1,7 @@
 # Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-NAME: DEVA DHARSHINI I
-
-REGISTER NO: 212223240026
+# NAME: DEVA DHARSHINI I
+# DATE: 28.02.2024
+# REGISTER NO: 212223240026
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
